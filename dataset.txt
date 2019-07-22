@@ -1,0 +1,1001 @@
+Ciudad	Mes	MontoVenta
+Moca	Diciembre	2000
+La vega	Marzo	3000
+La vega	Noviembre	3500
+Moca	Octubre	2000
+Moca	Julio	3000
+La vega	Diciembre	1000
+Moca	Octubre	3000
+Moca	Diciembre	3000
+Santiago	Diciembre	2500
+La vega	Junio	2000
+Santiago	Agosto	1000
+La vega	Mayo	2500
+La vega	Mayo	1000
+Santiago	Julio	1500
+Santiago	Febrero	2000
+Moca	Mayo	1000
+La vega	Marzo	1000
+Santiago	Diciembre	2000
+Moca	Diciembre	3500
+Moca	Diciembre	3000
+Santiago	Abril	1500
+Moca	Enero	1500
+Moca	Mayo	1000
+Santiago	Febrero	3500
+Santiago	Junio	2000
+Santiago	Abril	2000
+La vega	Abril	3500
+Santiago	Noviembre	2000
+La vega	Agosto	3500
+Santiago	Noviembre	1500
+Santiago	Abril	1000
+Moca	Noviembre	2500
+Moca	Abril	3000
+La vega	Agosto	3500
+Moca	Febrero	1500
+Santiago	Julio	1000
+La vega	Septiembre	3000
+Santiago	Mayo	3000
+Santiago	Febrero	3500
+Moca	Mayo	2500
+Moca	Enero	1500
+La vega	Enero	1500
+La vega	Febrero	2500
+Santiago	Agosto	3000
+Moca	Mayo	3000
+Moca	Octubre	1000
+Moca	Octubre	1000
+Moca	Abril	1000
+Moca	Enero	3500
+Moca	Marzo	1000
+Santiago	Junio	2000
+La vega	Agosto	3000
+Santiago	Abril	1500
+La vega	Enero	2500
+Moca	Agosto	3500
+Moca	Enero	2500
+La vega	Septiembre	2000
+La vega	Julio	1500
+Moca	Octubre	1000
+Moca	Febrero	2500
+Moca	Marzo	3500
+Santiago	Agosto	1000
+Moca	Julio	1000
+Moca	Enero	1500
+La vega	Septiembre	1500
+Moca	Mayo	2500
+Moca	Junio	3500
+La vega	Noviembre	3500
+Santiago	Septiembre	1500
+La vega	Mayo	1500
+Moca	Febrero	3500
+Santiago	Mayo	3500
+La vega	Marzo	2500
+Moca	Marzo	1500
+Moca	Octubre	3000
+La vega	Diciembre	2000
+La vega	Septiembre	2500
+Santiago	Enero	2500
+Moca	Octubre	3000
+La vega	Marzo	2000
+La vega	Julio	2000
+Moca	Julio	1000
+Moca	Octubre	1500
+La vega	Agosto	2000
+Moca	Agosto	2000
+La vega	Abril	3000
+La vega	Febrero	3500
+Santiago	Agosto	1000
+Moca	Abril	1000
+Santiago	Mayo	1500
+Santiago	Octubre	1000
+La vega	Junio	3500
+Moca	Julio	1000
+Moca	Julio	3000
+Santiago	Julio	3000
+Santiago	Octubre	2500
+Santiago	Junio	1000
+Moca	Junio	1000
+Santiago	Julio	1000
+Santiago	Abril	3000
+La vega	Julio	1500
+Santiago	Julio	2000
+Santiago	Marzo	2500
+La vega	Enero	1500
+Moca	Mayo	3500
+Moca	Agosto	3000
+La vega	Octubre	2500
+Santiago	Junio	3000
+La vega	Julio	3500
+Santiago	Julio	2000
+Moca	Julio	3500
+La vega	Julio	2000
+La vega	Octubre	3000
+Santiago	Octubre	2000
+Santiago	Marzo	2500
+La vega	Septiembre	1500
+La vega	Octubre	3000
+Moca	Marzo	3000
+La vega	Diciembre	1500
+La vega	Febrero	3000
+Moca	Agosto	1000
+Moca	Junio	3000
+Moca	Enero	3500
+La vega	Agosto	1000
+Santiago	Octubre	1000
+Santiago	Noviembre	3500
+Santiago	Mayo	3000
+La vega	Febrero	3500
+Moca	Noviembre	1500
+La vega	Abril	1500
+Santiago	Enero	1000
+Santiago	Abril	2000
+Santiago	Octubre	3000
+La vega	Junio	2500
+Moca	Septiembre	3000
+Moca	Septiembre	3500
+La vega	Mayo	1500
+Santiago	Febrero	2500
+Moca	Julio	3000
+La vega	Septiembre	2500
+Santiago	Noviembre	2000
+Santiago	Julio	1500
+La vega	Octubre	1000
+La vega	Noviembre	2500
+La vega	Diciembre	1500
+La vega	Marzo	1000
+Santiago	Agosto	3000
+Santiago	Marzo	3500
+Santiago	Febrero	3500
+La vega	Enero	1500
+Moca	Marzo	3500
+Santiago	Abril	2500
+Santiago	Noviembre	1000
+La vega	Febrero	1000
+Moca	Agosto	3000
+Moca	Septiembre	2500
+La vega	Noviembre	3000
+Moca	Julio	3000
+La vega	Abril	2500
+La vega	Septiembre	2500
+La vega	Agosto	2000
+La vega	Agosto	2000
+La vega	Mayo	1500
+Santiago	Junio	2500
+La vega	Mayo	1500
+La vega	Julio	1000
+Moca	Julio	2500
+Moca	Octubre	1500
+Moca	Diciembre	3500
+Santiago	Noviembre	1000
+La vega	Julio	1000
+Santiago	Diciembre	3500
+Moca	Noviembre	3500
+Moca	Noviembre	3500
+Santiago	Abril	3500
+Moca	Marzo	2500
+Moca	Noviembre	2000
+La vega	Abril	2000
+La vega	Diciembre	3500
+La vega	Junio	1500
+Santiago	Julio	1500
+Santiago	Octubre	1000
+La vega	Noviembre	2000
+La vega	Julio	3500
+La vega	Julio	2000
+La vega	Julio	3500
+Moca	Enero	2500
+Santiago	Diciembre	1000
+La vega	Junio	3000
+Santiago	Julio	1500
+La vega	Mayo	2500
+Santiago	Octubre	3000
+La vega	Octubre	3000
+La vega	Septiembre	3000
+Moca	Mayo	2500
+La vega	Octubre	3500
+Moca	Agosto	3000
+Moca	Abril	1500
+La vega	Septiembre	1500
+Moca	Abril	1500
+Moca	Abril	3500
+La vega	Marzo	2500
+Santiago	Mayo	2000
+La vega	Octubre	1000
+La vega	Septiembre	1000
+Moca	Enero	2500
+La vega	Junio	3000
+La vega	Julio	1000
+Moca	Julio	3000
+Santiago	Marzo	2500
+La vega	Mayo	2500
+Santiago	Septiembre	1000
+Santiago	Febrero	3000
+La vega	Enero	1000
+Santiago	Julio	3000
+Moca	Julio	1500
+Santiago	Julio	2500
+La vega	Junio	1000
+Santiago	Diciembre	3000
+Santiago	Marzo	2500
+Santiago	Abril	1500
+Moca	Diciembre	1500
+Santiago	Abril	2500
+Santiago	Enero	2500
+Santiago	Junio	1000
+Santiago	Agosto	2000
+Santiago	Mayo	1000
+Santiago	Junio	1500
+Moca	Abril	1000
+Moca	Mayo	3500
+La vega	Mayo	1000
+Santiago	Mayo	2000
+Santiago	Abril	2500
+Moca	Junio	1000
+Moca	Abril	3500
+Moca	Octubre	1500
+Moca	Mayo	1500
+Santiago	Octubre	1000
+La vega	Julio	3000
+Santiago	Enero	3000
+Moca	Febrero	1500
+Santiago	Enero	1000
+Moca	Enero	3000
+Santiago	Enero	3000
+Moca	Noviembre	2000
+Moca	Noviembre	2000
+La vega	Noviembre	2000
+Santiago	Septiembre	1500
+La vega	Noviembre	3500
+Santiago	Agosto	1500
+Moca	Febrero	3500
+Santiago	Noviembre	1000
+Moca	Septiembre	1500
+Santiago	Abril	3500
+Santiago	Julio	1500
+La vega	Enero	3000
+La vega	Septiembre	1000
+La vega	Junio	2500
+La vega	Febrero	1500
+Moca	Julio	2500
+Santiago	Diciembre	1000
+La vega	Julio	1000
+La vega	Agosto	1500
+Moca	Marzo	3500
+Moca	Junio	1500
+La vega	Febrero	2000
+Santiago	Marzo	3000
+La vega	Mayo	1500
+Santiago	Mayo	2500
+Santiago	Enero	1000
+Moca	Agosto	1000
+Santiago	Agosto	1500
+La vega	Septiembre	3500
+Moca	Febrero	1500
+Moca	Agosto	3000
+Santiago	Enero	1000
+Santiago	Junio	1000
+La vega	Agosto	3000
+La vega	Julio	2000
+Moca	Noviembre	3500
+La vega	Octubre	1500
+Moca	Agosto	2000
+Santiago	Septiembre	3000
+Santiago	Noviembre	1500
+Moca	Marzo	3000
+La vega	Marzo	1500
+Moca	Febrero	1500
+Santiago	Agosto	3000
+Moca	Febrero	2500
+La vega	Agosto	3500
+La vega	Agosto	1500
+La vega	Diciembre	1000
+Santiago	Octubre	2000
+La vega	Abril	1000
+Moca	Septiembre	2000
+Moca	Junio	1000
+La vega	Marzo	1500
+Moca	Junio	1500
+Santiago	Julio	3000
+Santiago	Septiembre	3000
+Moca	Marzo	2500
+Moca	Noviembre	1000
+Santiago	Junio	3000
+Santiago	Febrero	3500
+Santiago	Octubre	1500
+Moca	Octubre	2000
+Moca	Julio	2000
+La vega	Septiembre	2000
+Moca	Febrero	3500
+La vega	Noviembre	1500
+Santiago	Junio	2500
+Santiago	Enero	1000
+Moca	Agosto	1000
+Moca	Marzo	3500
+La vega	Noviembre	1000
+Moca	Noviembre	1000
+Moca	Abril	2500
+Moca	Noviembre	2000
+La vega	Febrero	3500
+La vega	Septiembre	3000
+Santiago	Agosto	3000
+La vega	Julio	1000
+La vega	Noviembre	2500
+La vega	Diciembre	2500
+La vega	Agosto	3500
+Moca	Agosto	2500
+Santiago	Marzo	3500
+La vega	Abril	3500
+La vega	Enero	1500
+Santiago	Septiembre	2500
+Santiago	Marzo	2000
+Santiago	Junio	2500
+Moca	Marzo	2000
+La vega	Agosto	1000
+La vega	Octubre	3500
+La vega	Noviembre	3500
+Santiago	Julio	1500
+Santiago	Enero	1000
+La vega	Julio	1000
+Moca	Octubre	3000
+Santiago	Septiembre	3500
+Moca	Mayo	3000
+Moca	Febrero	1000
+Santiago	Enero	3500
+Moca	Noviembre	2500
+La vega	Junio	2500
+La vega	Mayo	2000
+Moca	Marzo	3000
+Moca	Octubre	2000
+Santiago	Julio	3500
+Moca	Junio	1500
+Moca	Noviembre	1000
+Moca	Septiembre	3500
+Moca	Agosto	2500
+La vega	Abril	3000
+Moca	Junio	2500
+Santiago	Enero	1000
+La vega	Junio	2500
+Moca	Abril	1500
+La vega	Enero	2500
+Santiago	Mayo	3500
+Santiago	Noviembre	3000
+Moca	Febrero	1000
+Santiago	Septiembre	2000
+Moca	Febrero	2000
+Santiago	Enero	1000
+La vega	Agosto	2500
+La vega	Julio	2000
+Moca	Septiembre	1000
+Santiago	Abril	2000
+La vega	Febrero	2000
+Moca	Marzo	3000
+Santiago	Julio	1500
+La vega	Diciembre	2500
+Moca	Julio	3500
+La vega	Diciembre	3000
+Moca	Septiembre	1500
+Santiago	Septiembre	3000
+Santiago	Abril	2000
+Moca	Mayo	3000
+Moca	Julio	1500
+Moca	Junio	1000
+Moca	Junio	3500
+Moca	Noviembre	1500
+La vega	Julio	1000
+La vega	Noviembre	3000
+La vega	Noviembre	3000
+Santiago	Diciembre	3000
+La vega	Mayo	2500
+Moca	Octubre	2000
+Santiago	Octubre	2000
+La vega	Mayo	2500
+Moca	Diciembre	2000
+Moca	Junio	1000
+La vega	Noviembre	3500
+Moca	Diciembre	1500
+Santiago	Mayo	2500
+Santiago	Junio	1500
+La vega	Febrero	1000
+Moca	Enero	1500
+Moca	Julio	2000
+La vega	Mayo	3500
+Santiago	Enero	3500
+La vega	Diciembre	2500
+Santiago	Mayo	2500
+La vega	Diciembre	1500
+Santiago	Noviembre	1000
+La vega	Mayo	2500
+La vega	Junio	3500
+Moca	Octubre	2500
+Santiago	Julio	1500
+La vega	Marzo	3000
+Santiago	Octubre	2500
+La vega	Diciembre	3500
+Santiago	Septiembre	1000
+La vega	Agosto	1000
+Moca	Agosto	2000
+Moca	Septiembre	2500
+La vega	Junio	2500
+Santiago	Agosto	1000
+Moca	Enero	3500
+La vega	Agosto	2500
+La vega	Marzo	1500
+Moca	Marzo	1000
+La vega	Febrero	3000
+Moca	Septiembre	3000
+Santiago	Febrero	2000
+Santiago	Abril	3500
+La vega	Junio	1000
+La vega	Julio	3000
+La vega	Octubre	3500
+La vega	Febrero	3500
+Santiago	Octubre	1500
+La vega	Febrero	3000
+La vega	Agosto	1000
+Moca	Abril	3500
+La vega	Junio	2500
+Moca	Noviembre	2000
+Moca	Junio	1000
+La vega	Mayo	2000
+Moca	Junio	1500
+Moca	Marzo	3500
+Santiago	Marzo	2000
+Moca	Agosto	2000
+La vega	Octubre	1000
+La vega	Enero	1000
+Santiago	Septiembre	1500
+Santiago	Febrero	2000
+La vega	Agosto	2500
+Moca	Enero	1000
+La vega	Agosto	3500
+Santiago	Junio	2000
+Moca	Mayo	2500
+Moca	Abril	3500
+Moca	Mayo	3500
+Santiago	Septiembre	2000
+Santiago	Mayo	1000
+La vega	Enero	2500
+La vega	Junio	2500
+Moca	Marzo	1000
+Moca	Enero	2500
+Moca	Septiembre	2500
+Santiago	Noviembre	2000
+Santiago	Agosto	2000
+Santiago	Mayo	1500
+La vega	Noviembre	3000
+Santiago	Abril	2000
+La vega	Marzo	3500
+Moca	Noviembre	3000
+Santiago	Febrero	1000
+Santiago	Diciembre	1000
+La vega	Agosto	2500
+La vega	Octubre	3000
+Moca	Agosto	3500
+Santiago	Enero	2000
+La vega	Octubre	3500
+La vega	Octubre	2000
+Santiago	Septiembre	1000
+Moca	Abril	1000
+La vega	Febrero	1000
+La vega	Diciembre	1000
+Santiago	Octubre	1000
+Santiago	Octubre	2000
+La vega	Septiembre	2500
+Moca	Enero	2000
+Santiago	Noviembre	2000
+Santiago	Noviembre	2500
+Santiago	Julio	3000
+Santiago	Julio	1000
+Moca	Julio	3500
+Moca	Enero	3000
+La vega	Diciembre	2500
+Santiago	Julio	3000
+Moca	Junio	2000
+Santiago	Octubre	2000
+Santiago	Julio	1000
+Moca	Enero	1000
+Moca	Julio	3000
+Moca	Diciembre	3500
+Moca	Mayo	2500
+Moca	Abril	1000
+Santiago	Abril	2000
+Santiago	Febrero	1500
+Santiago	Octubre	3500
+Moca	Julio	3000
+Moca	Enero	2500
+Moca	Noviembre	2000
+Santiago	Mayo	2000
+La vega	Octubre	3500
+La vega	Diciembre	3000
+Santiago	Noviembre	1000
+La vega	Diciembre	3500
+La vega	Junio	1000
+Moca	Diciembre	3000
+Santiago	Septiembre	2000
+Moca	Diciembre	1500
+Moca	Julio	3500
+Moca	Febrero	3500
+La vega	Abril	3000
+La vega	Agosto	2500
+Santiago	Noviembre	3500
+Santiago	Febrero	1000
+Santiago	Febrero	1500
+Santiago	Diciembre	2000
+Santiago	Febrero	2000
+La vega	Enero	1000
+La vega	Agosto	3000
+Santiago	Octubre	2500
+Moca	Marzo	3500
+La vega	Diciembre	1500
+La vega	Diciembre	3500
+Moca	Febrero	1000
+Moca	Enero	1000
+La vega	Agosto	2000
+Santiago	Enero	3000
+Moca	Julio	3500
+Santiago	Enero	1000
+Moca	Junio	1000
+Moca	Agosto	1000
+La vega	Agosto	2500
+La vega	Diciembre	3500
+La vega	Febrero	2500
+Santiago	Noviembre	2000
+Moca	Octubre	3500
+La vega	Marzo	1000
+La vega	Noviembre	1000
+La vega	Noviembre	3500
+Moca	Agosto	1500
+Moca	Marzo	3500
+Moca	Julio	2000
+La vega	Marzo	1000
+Moca	Abril	1500
+La vega	Enero	2500
+La vega	Diciembre	3500
+Moca	Abril	1000
+Santiago	Julio	2500
+La vega	Diciembre	3500
+Moca	Diciembre	2500
+Santiago	Julio	3500
+Santiago	Febrero	3000
+Santiago	Diciembre	1000
+Moca	Diciembre	1500
+Moca	Septiembre	2000
+La vega	Mayo	3500
+Moca	Mayo	3000
+La vega	Mayo	1000
+Moca	Abril	3500
+La vega	Junio	2500
+Moca	Junio	1000
+Moca	Septiembre	2500
+Santiago	Agosto	2000
+La vega	Agosto	1000
+Moca	Mayo	2500
+La vega	Diciembre	3000
+Santiago	Febrero	3000
+Santiago	Noviembre	2500
+Santiago	Abril	2000
+La vega	Diciembre	1000
+Santiago	Febrero	3500
+La vega	Agosto	2000
+Santiago	Julio	2500
+Santiago	Julio	2500
+Santiago	Diciembre	2000
+La vega	Agosto	2000
+Santiago	Abril	3000
+Santiago	Septiembre	1500
+Santiago	Abril	2000
+Santiago	Diciembre	3000
+La vega	Marzo	2000
+La vega	Mayo	2000
+Santiago	Marzo	3000
+Moca	Noviembre	3500
+Moca	Enero	1000
+Santiago	Julio	1500
+La vega	Septiembre	1500
+Moca	Junio	2000
+La vega	Junio	3500
+Santiago	Julio	2000
+Santiago	Septiembre	3000
+Moca	Julio	3500
+La vega	Diciembre	1000
+Moca	Abril	2500
+Santiago	Diciembre	3500
+Santiago	Marzo	1500
+La vega	Febrero	2000
+Moca	Septiembre	3500
+La vega	Enero	1500
+Moca	Marzo	2000
+Moca	Mayo	3500
+Santiago	Octubre	2500
+Moca	Abril	2500
+Moca	Agosto	1000
+Moca	Octubre	2000
+La vega	Julio	2500
+Santiago	Enero	2500
+Moca	Junio	3500
+Moca	Junio	2000
+Santiago	Octubre	1000
+Moca	Septiembre	2000
+Santiago	Julio	3000
+Moca	Junio	1000
+La vega	Febrero	2500
+Santiago	Abril	3000
+Santiago	Junio	1000
+Santiago	Noviembre	1500
+Moca	Septiembre	2500
+La vega	Enero	2500
+Moca	Noviembre	1000
+Santiago	Febrero	1500
+Santiago	Marzo	2500
+La vega	Abril	3000
+Santiago	Noviembre	2500
+La vega	Agosto	2000
+La vega	Diciembre	3500
+La vega	Marzo	1000
+Santiago	Marzo	3500
+Moca	Abril	3500
+Santiago	Septiembre	2500
+Moca	Diciembre	3000
+Santiago	Diciembre	3000
+La vega	Septiembre	3000
+La vega	Noviembre	3500
+La vega	Mayo	1000
+La vega	Septiembre	2500
+Moca	Noviembre	3500
+Santiago	Febrero	2000
+Santiago	Febrero	2500
+Moca	Septiembre	3500
+Moca	Junio	1000
+Moca	Abril	1500
+Moca	Marzo	1500
+La vega	Septiembre	1500
+Moca	Julio	2500
+Moca	Septiembre	3000
+La vega	Abril	1500
+Moca	Octubre	3500
+Moca	Mayo	3000
+Moca	Julio	3500
+Moca	Agosto	3500
+Moca	Octubre	3500
+Moca	Junio	3000
+La vega	Enero	1500
+Moca	Diciembre	3500
+Moca	Diciembre	3500
+Santiago	Febrero	1000
+Moca	Noviembre	2500
+La vega	Marzo	2000
+La vega	Septiembre	1000
+La vega	Noviembre	3000
+Santiago	Octubre	3500
+Moca	Octubre	2000
+Moca	Agosto	1000
+Moca	Febrero	1500
+Moca	Enero	1500
+La vega	Febrero	2500
+Moca	Marzo	2500
+La vega	Febrero	1000
+Santiago	Agosto	1000
+Santiago	Marzo	3000
+La vega	Junio	2500
+Santiago	Abril	2000
+Santiago	Diciembre	2500
+Santiago	Diciembre	3000
+La vega	Marzo	2500
+La vega	Enero	1000
+Santiago	Agosto	3500
+Santiago	Julio	3000
+Moca	Octubre	1500
+Santiago	Junio	2500
+La vega	Noviembre	1500
+La vega	Julio	2000
+Santiago	Febrero	1500
+Moca	Octubre	1500
+Santiago	Julio	3000
+Moca	Mayo	3000
+Santiago	Abril	2500
+La vega	Diciembre	1500
+Moca	Julio	2500
+Santiago	Junio	2000
+Santiago	Noviembre	1500
+Santiago	Enero	2000
+Santiago	Octubre	1500
+La vega	Diciembre	2000
+Santiago	Agosto	2000
+La vega	Mayo	2500
+La vega	Febrero	3000
+La vega	Enero	2000
+Moca	Abril	2000
+Santiago	Abril	3500
+Moca	Marzo	2500
+La vega	Junio	3500
+Santiago	Noviembre	1500
+La vega	Julio	1000
+Moca	Junio	1000
+Moca	Julio	1500
+Santiago	Diciembre	3500
+Moca	Marzo	3500
+La vega	Junio	3000
+Moca	Julio	1000
+La vega	Noviembre	1500
+La vega	Junio	3500
+Moca	Octubre	2500
+La vega	Octubre	2500
+Santiago	Marzo	2500
+Santiago	Marzo	3000
+La vega	Octubre	2500
+La vega	Mayo	3500
+Moca	Mayo	3000
+La vega	Septiembre	1500
+La vega	Mayo	3500
+Santiago	Marzo	3000
+Santiago	Abril	1500
+La vega	Mayo	2000
+Santiago	Junio	3500
+Santiago	Abril	1000
+Santiago	Enero	3000
+Santiago	Marzo	3000
+Moca	Marzo	2500
+La vega	Septiembre	1500
+Moca	Diciembre	3500
+Santiago	Marzo	1000
+Santiago	Junio	2500
+Moca	Mayo	2500
+La vega	Abril	3000
+La vega	Noviembre	1500
+La vega	Septiembre	1000
+Santiago	Febrero	1000
+La vega	Diciembre	1000
+Moca	Abril	1500
+Moca	Octubre	3500
+Moca	Enero	3000
+Moca	Noviembre	2500
+Santiago	Febrero	2500
+Santiago	Abril	2500
+Santiago	Febrero	3000
+Moca	Marzo	1000
+La vega	Junio	1000
+Santiago	Marzo	3500
+Santiago	Abril	2500
+Moca	Noviembre	2000
+Santiago	Mayo	1000
+Moca	Junio	2500
+La vega	Junio	3500
+Moca	Agosto	2500
+La vega	Enero	2000
+Santiago	Septiembre	1000
+La vega	Marzo	3000
+Santiago	Febrero	1500
+Moca	Abril	1500
+La vega	Julio	1000
+La vega	Diciembre	2000
+La vega	Septiembre	1500
+Santiago	Marzo	1500
+La vega	Noviembre	1500
+Moca	Agosto	3000
+La vega	Mayo	2000
+La vega	Noviembre	2000
+La vega	Abril	2500
+La vega	Septiembre	1000
+Santiago	Marzo	1500
+Moca	Mayo	1000
+Santiago	Mayo	3500
+Santiago	Junio	2500
+Moca	Junio	1000
+Moca	Septiembre	3500
+La vega	Marzo	1000
+Santiago	Junio	2500
+La vega	Febrero	2500
+Moca	Abril	3500
+Santiago	Julio	1000
+Santiago	Noviembre	3000
+Santiago	Junio	1000
+Moca	Febrero	2500
+La vega	Septiembre	2000
+La vega	Noviembre	3000
+Moca	Julio	3500
+Moca	Octubre	2000
+Santiago	Abril	2000
+Moca	Marzo	3500
+Moca	Agosto	2000
+La vega	Octubre	1000
+Moca	Diciembre	3000
+La vega	Septiembre	2500
+Moca	Febrero	3500
+Santiago	Junio	1500
+Moca	Noviembre	1500
+Moca	Mayo	3000
+Moca	Julio	1000
+Santiago	Abril	3000
+Santiago	Julio	1500
+Santiago	Noviembre	2000
+La vega	Mayo	3500
+La vega	Diciembre	3500
+Moca	Enero	1000
+Santiago	Agosto	3500
+Santiago	Febrero	1500
+Santiago	Enero	1000
+Moca	Julio	1500
+Santiago	Junio	3500
+La vega	Septiembre	1500
+Santiago	Abril	2000
+Moca	Agosto	1500
+La vega	Mayo	1500
+La vega	Abril	1000
+La vega	Octubre	1000
+Santiago	Agosto	3000
+Santiago	Abril	2000
+Moca	Mayo	2000
+La vega	Octubre	3500
+La vega	Diciembre	1000
+Santiago	Septiembre	1000
+Moca	Octubre	3500
+La vega	Octubre	3000
+Santiago	Mayo	2000
+La vega	Octubre	2500
+La vega	Octubre	3000
+Moca	Agosto	2500
+Moca	Diciembre	3000
+La vega	Febrero	1000
+Santiago	Septiembre	2000
+Santiago	Febrero	3500
+La vega	Enero	3500
+La vega	Julio	2500
+La vega	Septiembre	2500
+Santiago	Septiembre	3000
+La vega	Abril	2500
+Santiago	Febrero	2500
+La vega	Diciembre	2500
+Moca	Julio	1000
+La vega	Mayo	1500
+Santiago	Abril	2500
+La vega	Mayo	2000
+Santiago	Enero	3500
+La vega	Diciembre	3000
+Santiago	Septiembre	2000
+Moca	Diciembre	3500
+La vega	Mayo	2000
+La vega	Enero	3500
+Santiago	Julio	3000
+Moca	Junio	1500
+Moca	Septiembre	3000
+Moca	Julio	3000
+La vega	Marzo	3000
+La vega	Enero	3500
+La vega	Septiembre	1500
+Santiago	Marzo	1000
+La vega	Julio	1500
+Santiago	Noviembre	3500
+Moca	Marzo	3500
+Santiago	Marzo	1000
+Moca	Agosto	1000
+Moca	Abril	3000
+La vega	Enero	1000
+Moca	Julio	2500
+Moca	Febrero	3000
+Moca	Agosto	3500
+Santiago	Diciembre	1500
+Santiago	Enero	3000
+Moca	Julio	1500
+Moca	Diciembre	1500
+Moca	Noviembre	2000
+Santiago	Junio	3000
+La vega	Septiembre	3500
+Moca	Junio	2000
+Moca	Agosto	3000
+Moca	Septiembre	1000
+Santiago	Abril	2000
+Moca	Abril	1500
+Moca	Diciembre	3500
+La vega	Febrero	1000
+La vega	Mayo	3500
+La vega	Abril	1000
+Santiago	Febrero	1000
+Santiago	Febrero	1500
+La vega	Septiembre	2500
+Santiago	Abril	1500
+La vega	Diciembre	2000
+Santiago	Julio	2500
+Santiago	Julio	3500
+Moca	Enero	1500
+Santiago	Agosto	2500
+La vega	Noviembre	3000
+Santiago	Diciembre	3500
+Moca	Febrero	3000
+Moca	Junio	3500
+La vega	Octubre	2000
+Santiago	Abril	3500
+Santiago	Febrero	1500
+Moca	Agosto	2000
+Moca	Noviembre	2000
+La vega	Enero	3000
+Santiago	Febrero	3500
+La vega	Marzo	2000
+Santiago	Febrero	1000
+Santiago	Agosto	3000
+Santiago	Enero	2000
+Santiago	Abril	3500
+Santiago	Julio	1000
+Moca	Agosto	1000
+Moca	Octubre	2000
+Santiago	Mayo	3000
+Moca	Julio	2000
+La vega	Julio	1500
+Santiago	Septiembre	2000
+Moca	Julio	1500
+Moca	Mayo	3500
+La vega	Junio	1000
+La vega	Mayo	3000
+Moca	Marzo	3500
+Santiago	Octubre	2000
+Santiago	Abril	1000
+La vega	Diciembre	2500
+Moca	Abril	1500
+La vega	Noviembre	3500
+Santiago	Febrero	3000
+La vega	Agosto	2500
+La vega	Diciembre	3000
+La vega	Enero	3500
+Santiago	Agosto	3500
+Moca	Noviembre	2000
+Moca	Agosto	1000
+Santiago	Agosto	2500
+Moca	Noviembre	3500
+Santiago	Abril	1500
+Moca	Enero	3000
+Moca	Abril	3500
+La vega	Julio	1500
+Santiago	Octubre	1000
+Santiago	Diciembre	1000
+Moca	Abril	3500
+Moca	Mayo	1500
+Moca	Octubre	3500
+Moca	Agosto	2000
+La vega	Mayo	3500
+Santiago	Diciembre	2500
+Moca	Mayo	1000
+La vega	Enero	2500
+Santiago	Junio	1500
+Santiago	Enero	2000
+Santiago	Octubre	1000
+Moca	Febrero	2000
+Moca	Abril	2500
+La vega	Julio	2000
+Santiago	Enero	2000
+Moca	Octubre	1000
+La vega	Julio	2000
+Moca	Julio	3500
+Santiago	Octubre	2000
+Moca	Marzo	2500
+Moca	Noviembre	3500
+Moca	Octubre	1500
+La vega	Febrero	3500
+Santiago	Marzo	3000
+Moca	Enero	2500
+La vega	Septiembre	2000
+Moca	Enero	1000
+Moca	Enero	1000
+Santiago	Enero	3000
+Santiago	Marzo	1000
+La vega	Noviembre	3500
+Santiago	Abril	2000
+La vega	Febrero	2500
+Santiago	Abril	3500
+Moca	Julio	3000
+Santiago	Febrero	2000
+Santiago	Noviembre	2500
+Santiago	Noviembre	1500
+La vega	Agosto	1000
+La vega	Febrero	3000
+Santiago	Octubre	1000
+Santiago	Mayo	1000
+Santiago	Mayo	2000
+Moca	Julio	2000
+La vega	Agosto	3500
+Santiago	Marzo	1500
+Moca	Abril	1500
+Moca	Agosto	1500
+La vega	Junio	1500
+Santiago	Octubre	3000
+Santiago	Mayo	3500
