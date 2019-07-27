@@ -5,9 +5,9 @@ ciudades = ['Santiago de los Caballeros', 'La Romana', 'San Pedro de Macoris', '
 meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre',
          'Diciembre']
 
-f = open("dataset.csv", "a")
-print(f"Ciudad,Mes,MontoVenta", file=f)
+f = open("dataset.txt", "a")
+# print(f"Ciudad,Mes,MontoVenta", file=f)
 for i in range(1000):
-    print(f"{random.choice(ciudades)},{random.choice(meses)},{random.randrange(1000, 9500)}", file=f)
+    print(f"{random.choice(ciudades)}\t{random.choice(meses)}\t{random.randrange(1000, 9500)}", file=f)
 
 f.close()

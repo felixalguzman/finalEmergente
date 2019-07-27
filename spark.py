@@ -5,6 +5,8 @@ from random import random
 from operator import add
 
 from pyspark.sql import SparkSession
+from pyspark.sql.types import StructType, StructField, Row
+from pyspark.sql.types import DoubleType, IntegerType, StringType
 
 if __name__ == "__main__":
     """
@@ -14,12 +16,28 @@ if __name__ == "__main__":
         .builder \
         .appName("PythonPi") \
         .getOrCreate()
+    schema = StructType([
+        StructField("Ciudad", StringType()),
+        StructField("Mes", StringType()),
+        StructField("MontoVenta", IntegerType())
+    ])
 
-    df = spark.read.csv("dataset.csv", header=True)
-    # df.show()
+    sc = spark.sparkContext
+    textFile = sc.textFile("hdfs://localhost:9000/dataset.txt")
+    partes = textFile.map(lambda l: l.split("\t"))
+    data = partes.map(lambda p: Row(ciudad=p[0],mes=p[1],monto=int(p[2])))
+    # data = partes.map(lambda p: Row(ciudad=p[0], mes=p[1], monto=int(p[2].strip())))
+    df = spark.createDataFrame(data)
+
     df.printSchema()
+    df.show()
+    # ds = spark.createDataFrame(df, schema=schema)
+    # ds.printSchema()
+    # for line in df:
+    #     print(line)
 
-    df.filter(df['MontoVenta'] > 5000).show()
+    # df.filter(df['MontoVenta'] > 5000).show()
+    # df.groupBy(df['Ciudad']).sum('MontoVenta').show()
 # partitions = int(sys.argv[1]) if len(sys.argv) > 1 else 2
 # n = 100000 * partitions
 #
