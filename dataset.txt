@@ -1,0 +1,1000 @@
+Moca	Mayo	1687
+Santiago de los Caballeros	Julio	3559
+La vega	Junio	2025
+La Romana	Julio	1264
+Esperanza	Junio	5635
+Moca	Diciembre	9147
+La Romana	Junio	5309
+Mao	Septiembre	6472
+La vega	Junio	7544
+Moca	Febrero	2273
+San Pedro de Macoris	Enero	5972
+Esperanza	Noviembre	2577
+La vega	Diciembre	9002
+San Cristobal	Diciembre	2741
+Esperanza	Octubre	1795
+San Pedro de Macoris	Agosto	3655
+Moca	Noviembre	6753
+Puerto Plata	Marzo	4027
+Santiago de los Caballeros	Mayo	7169
+La Altagracia	Marzo	3486
+Puerto Plata	Abril	5624
+Santiago de los Caballeros	Diciembre	7207
+Moca	Enero	9313
+La vega	Agosto	4189
+San Pedro de Macoris	Abril	5336
+Esperanza	Abril	6584
+San Cristobal	Septiembre	7599
+Moca	Diciembre	3734
+La Altagracia	Septiembre	4223
+La vega	Marzo	1462
+San Pedro de Macoris	Abril	4424
+Moca	Septiembre	4184
+La vega	Enero	1539
+San Cristobal	Enero	9497
+Santiago de los Caballeros	Abril	8242
+Santiago de los Caballeros	Noviembre	1422
+San Cristobal	Junio	1156
+San Cristobal	Mayo	8518
+Moca	Septiembre	6186
+Puerto Plata	Octubre	9371
+La vega	Mayo	7763
+La vega	Diciembre	8566
+Esperanza	Julio	7003
+Santiago de los Caballeros	Marzo	3504
+San Cristobal	Octubre	2683
+La Altagracia	Junio	4387
+La Romana	Marzo	6010
+Santiago de los Caballeros	Diciembre	2695
+Moca	Julio	2494
+La Romana	Mayo	1724
+San Pedro de Macoris	Mayo	8888
+La Romana	Febrero	8999
+Santiago de los Caballeros	Noviembre	2536
+La vega	Junio	7481
+San Pedro de Macoris	Diciembre	3234
+La vega	Agosto	1735
+La Romana	Marzo	2271
+La Romana	Septiembre	6138
+Puerto Plata	Agosto	2956
+La vega	Abril	8322
+La Altagracia	Marzo	4412
+Moca	Noviembre	1287
+La Romana	Octubre	8778
+Esperanza	Noviembre	7915
+Puerto Plata	Septiembre	7898
+Santiago de los Caballeros	Diciembre	8086
+San Cristobal	Abril	5624
+La Romana	Marzo	4792
+Santiago de los Caballeros	Septiembre	8164
+San Cristobal	Septiembre	9275
+Esperanza	Julio	7482
+Santiago de los Caballeros	Abril	7793
+San Pedro de Macoris	Julio	8251
+La vega	Mayo	4997
+Santiago de los Caballeros	Febrero	8390
+Esperanza	Febrero	5785
+La Romana	Octubre	8567
+Santiago de los Caballeros	Agosto	7585
+La Romana	Mayo	4632
+Santiago de los Caballeros	Octubre	2839
+La Altagracia	Octubre	3580
+La vega	Septiembre	8636
+Esperanza	Abril	4480
+La vega	Julio	4774
+San Pedro de Macoris	Mayo	7453
+Moca	Julio	2981
+Puerto Plata	Junio	9325
+Santiago de los Caballeros	Septiembre	3756
+La Altagracia	Noviembre	8662
+La Altagracia	Febrero	2290
+La Altagracia	Octubre	8192
+San Cristobal	Noviembre	2275
+San Cristobal	Abril	8672
+Mao	Enero	2797
+Esperanza	Mayo	3378
+San Cristobal	Diciembre	5737
+La Romana	Mayo	3201
+Santiago de los Caballeros	Octubre	2902
+San Pedro de Macoris	Septiembre	6517
+San Pedro de Macoris	Junio	8604
+Esperanza	Junio	2050
+San Pedro de Macoris	Enero	8124
+La vega	Noviembre	8907
+La Romana	Marzo	6137
+Esperanza	Mayo	3106
+La Altagracia	Diciembre	2456
+La vega	Marzo	4548
+Puerto Plata	Junio	5336
+La Altagracia	Septiembre	2969
+La Altagracia	Febrero	4075
+La Altagracia	Enero	6350
+Puerto Plata	Febrero	7266
+Santiago de los Caballeros	Septiembre	5886
+La Romana	Junio	8339
+La vega	Julio	6896
+Mao	Enero	5349
+La Altagracia	Abril	6176
+Santiago de los Caballeros	Agosto	7913
+Moca	Enero	6450
+La Altagracia	Septiembre	1784
+Santiago de los Caballeros	Mayo	6661
+La Romana	Febrero	8255
+San Pedro de Macoris	Octubre	2408
+La Altagracia	Febrero	4390
+La Romana	Junio	2135
+Santiago de los Caballeros	Marzo	4965
+San Cristobal	Septiembre	7932
+Puerto Plata	Abril	2639
+La vega	Junio	1243
+La Altagracia	Diciembre	2245
+San Cristobal	Febrero	7955
+Mao	Septiembre	6869
+Mao	Octubre	1469
+La Romana	Agosto	9189
+San Pedro de Macoris	Febrero	8967
+Mao	Julio	4930
+Santiago de los Caballeros	Julio	2244
+Santiago de los Caballeros	Diciembre	2068
+La Altagracia	Julio	7385
+La Altagracia	Julio	6319
+Esperanza	Enero	8176
+Santiago de los Caballeros	Mayo	6268
+Esperanza	Noviembre	2075
+La Romana	Abril	6452
+Santiago de los Caballeros	Julio	8508
+La Romana	Mayo	6291
+Santiago de los Caballeros	Septiembre	2535
+Moca	Noviembre	3909
+La vega	Mayo	4558
+Moca	Octubre	3530
+La vega	Mayo	9190
+San Cristobal	Mayo	8793
+Santiago de los Caballeros	Noviembre	6198
+La Romana	Julio	5498
+La Altagracia	Abril	5444
+La Romana	Octubre	5119
+Santiago de los Caballeros	Noviembre	7358
+La Altagracia	Febrero	5549
+La vega	Diciembre	5495
+Mao	Noviembre	6083
+Puerto Plata	Agosto	8221
+San Cristobal	Mayo	2979
+Santiago de los Caballeros	Octubre	5299
+La Romana	Octubre	8671
+La Romana	Septiembre	2981
+San Pedro de Macoris	Octubre	4417
+Santiago de los Caballeros	Julio	8969
+Moca	Abril	7569
+La Altagracia	Octubre	6192
+Mao	Abril	8180
+La vega	Abril	4721
+Puerto Plata	Agosto	4960
+Puerto Plata	Noviembre	9317
+San Pedro de Macoris	Agosto	5736
+Moca	Julio	5706
+Moca	Agosto	5365
+San Cristobal	Septiembre	4127
+Mao	Mayo	5121
+San Cristobal	Septiembre	5216
+La Romana	Marzo	8208
+Puerto Plata	Marzo	4199
+San Cristobal	Septiembre	8900
+Puerto Plata	Febrero	8209
+Mao	Julio	3011
+La Romana	Junio	3462
+San Cristobal	Abril	7655
+Santiago de los Caballeros	Abril	4122
+Puerto Plata	Octubre	8632
+San Cristobal	Agosto	6487
+San Pedro de Macoris	Febrero	1618
+Santiago de los Caballeros	Noviembre	4374
+Esperanza	Agosto	5455
+La Romana	Noviembre	5326
+Moca	Octubre	9176
+Moca	Diciembre	3471
+San Pedro de Macoris	Febrero	3659
+Mao	Abril	5359
+La vega	Octubre	1946
+La vega	Septiembre	2715
+San Pedro de Macoris	Septiembre	5662
+Santiago de los Caballeros	Febrero	6743
+La Altagracia	Octubre	2997
+San Cristobal	Septiembre	8339
+Mao	Febrero	6675
+San Cristobal	Diciembre	3959
+San Pedro de Macoris	Febrero	5082
+Mao	Marzo	1510
+San Cristobal	Febrero	4624
+Mao	Noviembre	4234
+La Altagracia	Julio	6954
+Puerto Plata	Diciembre	4549
+Puerto Plata	Octubre	2195
+San Pedro de Macoris	Marzo	5848
+Mao	Julio	2267
+San Cristobal	Mayo	2718
+San Pedro de Macoris	Febrero	8918
+Esperanza	Septiembre	8052
+Esperanza	Marzo	4891
+Puerto Plata	Octubre	6153
+Santiago de los Caballeros	Septiembre	1749
+Puerto Plata	Marzo	4803
+La Romana	Agosto	3141
+Esperanza	Abril	6906
+La vega	Octubre	5825
+Moca	Marzo	8271
+La Romana	Julio	5966
+Moca	Diciembre	4815
+San Cristobal	Febrero	3475
+Mao	Marzo	6475
+La Altagracia	Abril	2095
+Moca	Octubre	7739
+La Altagracia	Abril	3609
+Moca	Noviembre	7469
+La Romana	Septiembre	2246
+Moca	Octubre	1076
+Esperanza	Abril	5447
+Puerto Plata	Julio	4841
+Esperanza	Abril	4278
+Moca	Noviembre	8140
+La vega	Junio	4374
+Puerto Plata	Agosto	1616
+Santiago de los Caballeros	Julio	4030
+Esperanza	Diciembre	8097
+La vega	Julio	2441
+Santiago de los Caballeros	Diciembre	2360
+La Altagracia	Junio	4012
+Mao	Junio	5742
+San Cristobal	Abril	3508
+La Romana	Enero	6962
+San Cristobal	Marzo	1422
+La Romana	Enero	7843
+Esperanza	Noviembre	1202
+Puerto Plata	Diciembre	6675
+Esperanza	Agosto	3928
+Santiago de los Caballeros	Diciembre	2980
+San Cristobal	Octubre	4934
+La Romana	Julio	2954
+San Pedro de Macoris	Febrero	2865
+Santiago de los Caballeros	Julio	5236
+La vega	Abril	6548
+San Cristobal	Diciembre	1604
+Esperanza	Febrero	5681
+La vega	Julio	3899
+Puerto Plata	Noviembre	2816
+La vega	Junio	3063
+Esperanza	Enero	2884
+San Cristobal	Diciembre	7796
+Esperanza	Diciembre	7051
+La Romana	Julio	6314
+La vega	Febrero	2466
+San Cristobal	Noviembre	9133
+Moca	Abril	7121
+La vega	Noviembre	3313
+Esperanza	Enero	1104
+Mao	Febrero	7596
+La Romana	Agosto	2252
+Moca	Septiembre	2915
+San Pedro de Macoris	Junio	3570
+Moca	Mayo	5492
+Santiago de los Caballeros	Junio	2834
+Esperanza	Febrero	7446
+Moca	Julio	2469
+La Romana	Noviembre	3132
+Esperanza	Noviembre	2029
+Moca	Abril	7244
+Mao	Noviembre	6730
+Moca	Julio	5374
+Moca	Junio	7745
+Santiago de los Caballeros	Febrero	4134
+Moca	Diciembre	7716
+La vega	Junio	9027
+Mao	Octubre	7359
+Esperanza	Febrero	8893
+Moca	Noviembre	3619
+Esperanza	Mayo	7713
+San Pedro de Macoris	Diciembre	4298
+La vega	Noviembre	9285
+La vega	Agosto	6474
+San Cristobal	Noviembre	9141
+Puerto Plata	Junio	8637
+La Romana	Abril	5258
+Santiago de los Caballeros	Julio	5029
+La vega	Abril	8391
+Puerto Plata	Febrero	4297
+La vega	Diciembre	6124
+San Pedro de Macoris	Diciembre	7750
+Esperanza	Septiembre	2711
+Santiago de los Caballeros	Enero	1902
+La Romana	Junio	8025
+San Pedro de Macoris	Septiembre	1753
+Santiago de los Caballeros	Septiembre	6961
+La Altagracia	Junio	6046
+San Pedro de Macoris	Junio	2458
+La Romana	Mayo	7485
+Moca	Septiembre	8633
+Moca	Septiembre	5091
+La vega	Abril	1401
+San Cristobal	Septiembre	8675
+Mao	Junio	7385
+La Altagracia	Marzo	6205
+Santiago de los Caballeros	Febrero	3790
+San Pedro de Macoris	Agosto	2429
+San Cristobal	Mayo	2223
+Puerto Plata	Agosto	6925
+San Pedro de Macoris	Marzo	8260
+San Cristobal	Diciembre	6710
+La Altagracia	Noviembre	2188
+Santiago de los Caballeros	Marzo	6878
+La vega	Julio	5728
+Mao	Diciembre	1073
+Moca	Abril	7012
+La vega	Septiembre	1406
+Mao	Junio	5480
+Moca	Diciembre	1983
+Puerto Plata	Noviembre	7564
+Moca	Enero	3377
+San Pedro de Macoris	Septiembre	1516
+Santiago de los Caballeros	Agosto	7337
+San Cristobal	Octubre	8190
+Esperanza	Diciembre	2350
+Mao	Agosto	1865
+Mao	Octubre	3897
+San Pedro de Macoris	Mayo	7870
+La vega	Septiembre	4952
+Esperanza	Noviembre	8966
+San Pedro de Macoris	Julio	5164
+San Pedro de Macoris	Febrero	7888
+San Cristobal	Abril	2135
+Santiago de los Caballeros	Octubre	6848
+Mao	Febrero	9371
+La Altagracia	Septiembre	7375
+Santiago de los Caballeros	Mayo	2973
+Moca	Octubre	4599
+Moca	Abril	1383
+Santiago de los Caballeros	Julio	6581
+Moca	Diciembre	3502
+San Cristobal	Marzo	6168
+La vega	Septiembre	3625
+Moca	Septiembre	1828
+La Altagracia	Abril	5959
+La Romana	Febrero	5154
+Moca	Noviembre	6315
+Esperanza	Noviembre	9438
+Puerto Plata	Enero	7724
+La vega	Septiembre	9282
+San Pedro de Macoris	Diciembre	7578
+Esperanza	Abril	8272
+Puerto Plata	Noviembre	5135
+La vega	Junio	4941
+La Romana	Enero	7529
+San Pedro de Macoris	Julio	6127
+Puerto Plata	Julio	3822
+Santiago de los Caballeros	Agosto	7905
+La Romana	Enero	8642
+La Romana	Noviembre	8699
+Puerto Plata	Enero	5236
+La Romana	Febrero	7293
+La Romana	Septiembre	1989
+Esperanza	Abril	6970
+San Cristobal	Enero	2034
+Santiago de los Caballeros	Octubre	2840
+Santiago de los Caballeros	Julio	3176
+Moca	Abril	9355
+La Altagracia	Marzo	8524
+La Romana	Septiembre	8368
+Esperanza	Septiembre	4527
+Esperanza	Septiembre	1698
+San Cristobal	Febrero	8588
+Mao	Octubre	9394
+Moca	Enero	2072
+Mao	Octubre	3892
+San Cristobal	Abril	5742
+Mao	Diciembre	3293
+Mao	Diciembre	3281
+La Altagracia	Mayo	8281
+La vega	Junio	2718
+La Altagracia	Abril	6506
+Puerto Plata	Diciembre	4334
+La vega	Septiembre	4660
+Moca	Diciembre	3772
+Santiago de los Caballeros	Diciembre	2881
+Esperanza	Marzo	2736
+San Pedro de Macoris	Febrero	5275
+Santiago de los Caballeros	Junio	4830
+Moca	Febrero	2508
+Santiago de los Caballeros	Marzo	8310
+La Romana	Agosto	9127
+Mao	Septiembre	6562
+San Cristobal	Abril	8636
+Esperanza	Enero	4857
+La Altagracia	Noviembre	1576
+La Romana	Mayo	4513
+San Pedro de Macoris	Abril	4212
+Santiago de los Caballeros	Diciembre	9495
+Moca	Octubre	1767
+Esperanza	Noviembre	4345
+Puerto Plata	Febrero	1581
+Puerto Plata	Noviembre	6386
+Puerto Plata	Agosto	3441
+La Altagracia	Mayo	9269
+Esperanza	Noviembre	1709
+Esperanza	Junio	7032
+La vega	Marzo	3915
+Moca	Agosto	9336
+Esperanza	Noviembre	2846
+Puerto Plata	Febrero	4969
+San Pedro de Macoris	Febrero	4415
+Puerto Plata	Noviembre	5133
+La Romana	Julio	2781
+San Cristobal	Diciembre	7971
+Santiago de los Caballeros	Marzo	2699
+Esperanza	Mayo	2479
+San Pedro de Macoris	Enero	9021
+La Romana	Julio	3913
+San Cristobal	Noviembre	6002
+San Pedro de Macoris	Mayo	6105
+Puerto Plata	Marzo	5069
+Mao	Mayo	3117
+La Altagracia	Septiembre	8417
+La vega	Julio	5790
+Esperanza	Agosto	2318
+Moca	Septiembre	9113
+Moca	Septiembre	7531
+San Cristobal	Julio	6073
+San Cristobal	Septiembre	5848
+La Romana	Marzo	7830
+Santiago de los Caballeros	Julio	3054
+La Altagracia	Febrero	8500
+San Cristobal	Mayo	8724
+Moca	Mayo	7684
+San Pedro de Macoris	Junio	3619
+Mao	Junio	3487
+Puerto Plata	Marzo	6641
+Esperanza	Abril	5592
+San Pedro de Macoris	Enero	6989
+San Pedro de Macoris	Abril	4833
+Santiago de los Caballeros	Enero	1094
+Esperanza	Marzo	2872
+La vega	Octubre	7896
+La Altagracia	Septiembre	8697
+Santiago de los Caballeros	Marzo	7488
+La vega	Septiembre	3981
+Puerto Plata	Enero	3924
+La Romana	Junio	2244
+La Romana	Diciembre	5676
+San Cristobal	Diciembre	1365
+La Altagracia	Septiembre	6347
+San Pedro de Macoris	Abril	1997
+La vega	Mayo	7213
+Santiago de los Caballeros	Abril	5415
+La Altagracia	Octubre	9168
+La vega	Diciembre	3347
+La Altagracia	Julio	8093
+La vega	Junio	4267
+Mao	Marzo	2451
+La Altagracia	Julio	6572
+La Romana	Noviembre	1278
+Santiago de los Caballeros	Diciembre	3964
+Moca	Diciembre	6320
+Moca	Septiembre	3629
+La Altagracia	Febrero	7629
+Moca	Abril	5633
+San Cristobal	Diciembre	2199
+Esperanza	Febrero	5927
+Esperanza	Junio	8075
+Mao	Julio	5816
+La Romana	Febrero	2885
+La Romana	Marzo	5003
+La Altagracia	Mayo	1989
+Esperanza	Febrero	4824
+Santiago de los Caballeros	Septiembre	2731
+Moca	Junio	1298
+La Romana	Noviembre	2713
+San Cristobal	Julio	9001
+San Pedro de Macoris	Diciembre	1280
+Esperanza	Diciembre	8852
+Moca	Octubre	2228
+San Cristobal	Octubre	4336
+Puerto Plata	Marzo	4202
+Santiago de los Caballeros	Agosto	6504
+San Pedro de Macoris	Octubre	2185
+San Pedro de Macoris	Diciembre	6871
+San Cristobal	Febrero	4030
+Moca	Febrero	9413
+Puerto Plata	Septiembre	1484
+Moca	Noviembre	1340
+La Romana	Octubre	8533
+La Altagracia	Abril	2506
+San Cristobal	Enero	8215
+La Altagracia	Noviembre	8772
+Esperanza	Abril	7651
+San Pedro de Macoris	Mayo	4671
+Santiago de los Caballeros	Abril	4381
+Mao	Junio	4777
+La Romana	Mayo	4399
+San Cristobal	Febrero	9473
+Mao	Junio	2228
+San Pedro de Macoris	Noviembre	9442
+Moca	Diciembre	2368
+La vega	Marzo	2555
+San Cristobal	Marzo	1016
+San Cristobal	Abril	4879
+San Cristobal	Enero	2487
+Puerto Plata	Julio	5633
+Esperanza	Junio	8394
+La Altagracia	Noviembre	9397
+Moca	Febrero	2522
+San Pedro de Macoris	Mayo	1487
+Mao	Octubre	8783
+San Pedro de Macoris	Marzo	2395
+La Altagracia	Enero	1520
+La Romana	Febrero	7413
+San Cristobal	Abril	3214
+Puerto Plata	Enero	4055
+Esperanza	Mayo	2509
+Esperanza	Diciembre	2915
+Mao	Mayo	8305
+Moca	Mayo	6006
+Moca	Julio	5255
+San Cristobal	Octubre	8088
+La Altagracia	Febrero	9144
+La Altagracia	Enero	3770
+Santiago de los Caballeros	Marzo	4794
+Mao	Noviembre	3219
+Santiago de los Caballeros	Enero	3935
+San Pedro de Macoris	Octubre	1266
+San Pedro de Macoris	Octubre	2835
+La vega	Febrero	4361
+La Romana	Septiembre	6537
+Santiago de los Caballeros	Enero	9413
+Moca	Mayo	7639
+La Romana	Septiembre	2974
+Santiago de los Caballeros	Enero	1245
+San Pedro de Macoris	Junio	5026
+Santiago de los Caballeros	Mayo	3528
+San Pedro de Macoris	Septiembre	6567
+San Pedro de Macoris	Noviembre	8485
+Moca	Mayo	7312
+La Romana	Septiembre	1271
+Moca	Enero	5685
+San Cristobal	Diciembre	8255
+Puerto Plata	Marzo	5087
+La Romana	Julio	8500
+La Altagracia	Marzo	5210
+La Altagracia	Noviembre	7341
+Mao	Octubre	5333
+La Romana	Febrero	1895
+Mao	Marzo	4103
+Santiago de los Caballeros	Noviembre	4074
+La vega	Marzo	6931
+San Pedro de Macoris	Abril	6080
+Esperanza	Agosto	1990
+Moca	Noviembre	6111
+La vega	Marzo	1795
+Moca	Agosto	1046
+San Cristobal	Enero	1726
+La Romana	Marzo	1462
+La vega	Septiembre	5276
+Puerto Plata	Enero	7732
+Esperanza	Diciembre	6555
+San Pedro de Macoris	Mayo	7609
+La Altagracia	Octubre	3174
+San Cristobal	Septiembre	9170
+La vega	Abril	8210
+San Pedro de Macoris	Febrero	9165
+Esperanza	Octubre	8687
+San Pedro de Macoris	Diciembre	7008
+San Pedro de Macoris	Mayo	8033
+La Romana	Julio	4453
+La vega	Febrero	3604
+San Cristobal	Junio	8049
+Puerto Plata	Octubre	4191
+Esperanza	Julio	7291
+San Cristobal	Mayo	6667
+La Altagracia	Junio	5326
+Puerto Plata	Noviembre	1358
+La Romana	Agosto	3081
+La vega	Diciembre	6521
+Puerto Plata	Octubre	2834
+La vega	Junio	1446
+San Pedro de Macoris	Junio	5439
+Mao	Mayo	1190
+La vega	Diciembre	2171
+San Pedro de Macoris	Marzo	2675
+Mao	Noviembre	1418
+La Altagracia	Marzo	2154
+Puerto Plata	Enero	3155
+Mao	Agosto	4553
+San Pedro de Macoris	Agosto	8967
+Mao	Mayo	4705
+Moca	Febrero	4566
+Esperanza	Octubre	7394
+Puerto Plata	Diciembre	8002
+La vega	Mayo	2349
+Mao	Junio	3401
+San Pedro de Macoris	Junio	7085
+Esperanza	Enero	4585
+San Pedro de Macoris	Febrero	8724
+La Romana	Septiembre	7667
+San Pedro de Macoris	Noviembre	3144
+San Cristobal	Junio	1322
+Mao	Mayo	1992
+La Altagracia	Noviembre	3217
+La vega	Noviembre	1041
+Santiago de los Caballeros	Enero	8327
+La Altagracia	Agosto	4702
+La Romana	Diciembre	6110
+Moca	Diciembre	7484
+Moca	Marzo	1911
+Moca	Agosto	9234
+Moca	Noviembre	8079
+San Cristobal	Septiembre	2443
+Esperanza	Agosto	5239
+San Pedro de Macoris	Octubre	8135
+San Pedro de Macoris	Diciembre	2883
+Puerto Plata	Diciembre	4652
+Esperanza	Agosto	1044
+Santiago de los Caballeros	Abril	3958
+San Pedro de Macoris	Mayo	7098
+Puerto Plata	Septiembre	6453
+Moca	Noviembre	9429
+Puerto Plata	Mayo	5067
+Santiago de los Caballeros	Julio	6128
+Santiago de los Caballeros	Octubre	6593
+Mao	Febrero	1123
+La vega	Enero	5002
+Esperanza	Mayo	5032
+Moca	Noviembre	8227
+San Cristobal	Septiembre	9317
+La Altagracia	Marzo	3572
+La Altagracia	Julio	4033
+Puerto Plata	Abril	7882
+Esperanza	Noviembre	9409
+La Romana	Febrero	4485
+Mao	Julio	5781
+Esperanza	Febrero	5762
+Moca	Julio	3351
+San Pedro de Macoris	Octubre	7455
+Puerto Plata	Septiembre	1051
+La vega	Junio	6214
+La Altagracia	Octubre	6899
+Puerto Plata	Noviembre	3452
+Moca	Diciembre	9465
+Mao	Septiembre	7391
+Moca	Septiembre	4604
+Puerto Plata	Octubre	8656
+San Cristobal	Julio	4558
+Moca	Abril	2840
+San Cristobal	Febrero	3095
+La vega	Junio	3706
+La Altagracia	Febrero	5777
+La Romana	Septiembre	8125
+Puerto Plata	Marzo	4574
+La vega	Marzo	9103
+Mao	Marzo	1047
+La Romana	Octubre	6970
+La Altagracia	Junio	2980
+Santiago de los Caballeros	Octubre	6922
+Santiago de los Caballeros	Diciembre	8938
+Esperanza	Octubre	6156
+San Pedro de Macoris	Agosto	2911
+Puerto Plata	Marzo	8696
+Puerto Plata	Agosto	2752
+La Altagracia	Febrero	1157
+Esperanza	Septiembre	1882
+San Pedro de Macoris	Noviembre	4496
+Esperanza	Julio	3741
+La Romana	Noviembre	4721
+La Romana	Noviembre	3877
+Esperanza	Septiembre	3168
+Moca	Octubre	1100
+San Pedro de Macoris	Enero	1020
+Moca	Abril	2601
+San Cristobal	Septiembre	1666
+La Romana	Diciembre	5143
+La Romana	Diciembre	8569
+Santiago de los Caballeros	Febrero	4744
+Esperanza	Julio	6350
+La Altagracia	Noviembre	6466
+Mao	Marzo	6379
+Santiago de los Caballeros	Diciembre	3428
+San Pedro de Macoris	Junio	7931
+Moca	Marzo	4379
+La Romana	Octubre	3765
+Mao	Octubre	5892
+La Altagracia	Enero	9110
+La vega	Julio	4006
+La Altagracia	Agosto	3182
+La vega	Junio	5379
+La Altagracia	Septiembre	6070
+Puerto Plata	Octubre	7801
+La Altagracia	Marzo	2023
+La Romana	Febrero	3780
+La vega	Junio	2467
+Santiago de los Caballeros	Enero	8515
+San Cristobal	Septiembre	6378
+Mao	Enero	3908
+La Altagracia	Abril	3493
+Mao	Marzo	3856
+Esperanza	Septiembre	2489
+Puerto Plata	Febrero	8074
+Esperanza	Marzo	7828
+La Romana	Julio	2878
+Puerto Plata	Febrero	8950
+La vega	Marzo	7545
+San Cristobal	Octubre	8743
+Puerto Plata	Agosto	1870
+Mao	Septiembre	2703
+San Cristobal	Febrero	5533
+La Romana	Agosto	8853
+Moca	Mayo	8763
+La Altagracia	Septiembre	9494
+San Cristobal	Enero	9081
+Mao	Noviembre	8277
+Mao	Marzo	9211
+Puerto Plata	Agosto	2230
+San Cristobal	Julio	5115
+La Altagracia	Julio	4567
+La vega	Octubre	7243
+La Romana	Agosto	7621
+Santiago de los Caballeros	Febrero	9370
+La vega	Agosto	7819
+La vega	Octubre	5623
+La vega	Diciembre	4578
+Moca	Mayo	2238
+Santiago de los Caballeros	Febrero	8453
+Puerto Plata	Agosto	7015
+San Pedro de Macoris	Abril	1621
+San Cristobal	Noviembre	9281
+La vega	Julio	7675
+La Altagracia	Junio	7297
+Santiago de los Caballeros	Marzo	2406
+La Romana	Marzo	2972
+San Pedro de Macoris	Mayo	4743
+Santiago de los Caballeros	Abril	5417
+San Pedro de Macoris	Marzo	5791
+Puerto Plata	Junio	8818
+Santiago de los Caballeros	Mayo	2531
+Mao	Diciembre	6591
+San Pedro de Macoris	Marzo	4983
+San Pedro de Macoris	Julio	3026
+Santiago de los Caballeros	Mayo	4717
+San Pedro de Macoris	Julio	8644
+La vega	Octubre	7923
+Moca	Enero	9095
+Puerto Plata	Marzo	3558
+San Pedro de Macoris	Junio	4694
+La vega	Octubre	9416
+Mao	Febrero	6802
+La Romana	Marzo	5428
+La vega	Junio	7395
+Santiago de los Caballeros	Diciembre	5440
+La Romana	Septiembre	8894
+San Pedro de Macoris	Septiembre	6755
+San Pedro de Macoris	Agosto	7780
+La vega	Julio	3765
+Mao	Enero	2065
+La Altagracia	Abril	1850
+Puerto Plata	Diciembre	4212
+La Altagracia	Febrero	3733
+La vega	Febrero	9056
+Moca	Abril	8166
+Santiago de los Caballeros	Diciembre	8856
+Santiago de los Caballeros	Febrero	8775
+Mao	Junio	7394
+Esperanza	Agosto	3095
+La Altagracia	Septiembre	4610
+Moca	Julio	4296
+Esperanza	Abril	7149
+La Altagracia	Noviembre	5174
+San Pedro de Macoris	Junio	7297
+San Pedro de Macoris	Enero	2608
+Mao	Junio	9298
+La vega	Septiembre	1213
+La vega	Noviembre	1023
+Esperanza	Mayo	8644
+Moca	Marzo	5907
+Santiago de los Caballeros	Enero	3754
+San Pedro de Macoris	Agosto	5754
+Mao	Abril	7563
+Puerto Plata	Abril	9199
+La vega	Marzo	7268
+La Altagracia	Febrero	4276
+La vega	Octubre	4649
+Moca	Febrero	5099
+La Altagracia	Diciembre	6623
+Moca	Enero	4698
+Santiago de los Caballeros	Febrero	8156
+San Pedro de Macoris	Mayo	6418
+San Pedro de Macoris	Febrero	5033
+San Cristobal	Noviembre	3787
+San Pedro de Macoris	Junio	1575
+Santiago de los Caballeros	Enero	8639
+Mao	Marzo	5997
+Esperanza	Agosto	2733
+Puerto Plata	Febrero	2586
+La Altagracia	Noviembre	9201
+San Pedro de Macoris	Diciembre	8388
+Puerto Plata	Agosto	4166
+La Romana	Marzo	3870
+Moca	Octubre	8346
+Esperanza	Abril	7173
+Santiago de los Caballeros	Agosto	3220
+San Pedro de Macoris	Marzo	9263
+Moca	Abril	2998
+Puerto Plata	Noviembre	1460
+La vega	Julio	6761
+La vega	Julio	9421
+San Cristobal	Marzo	3106
+Moca	Junio	4502
+Mao	Enero	1115
+La vega	Diciembre	7780
+Esperanza	Abril	3353
+Puerto Plata	Marzo	3109
+San Cristobal	Agosto	4697
+Puerto Plata	Julio	1151
+Esperanza	Mayo	3354
+Santiago de los Caballeros	Febrero	8117
+Esperanza	Septiembre	7388
+La Altagracia	Noviembre	2582
+San Pedro de Macoris	Octubre	3881
+La Romana	Septiembre	9144
+Puerto Plata	Febrero	2518
+La Altagracia	Febrero	6120
+Puerto Plata	Julio	9045
+Santiago de los Caballeros	Octubre	4821
+La Altagracia	Enero	6170
+La Romana	Noviembre	2586
+La vega	Marzo	3610
+San Cristobal	Agosto	1408
+Puerto Plata	Agosto	7104
+Puerto Plata	Diciembre	7019
+La Romana	Marzo	5692
+La Romana	Junio	7002
+Puerto Plata	Marzo	4769
+Moca	Septiembre	2412
+San Pedro de Macoris	Marzo	3271
+Mao	Noviembre	6109
+San Cristobal	Marzo	1965
+San Cristobal	Mayo	3564
+La Altagracia	Mayo	6998
+La vega	Febrero	8663
+La Altagracia	Julio	9074
+Esperanza	Mayo	1340
+San Cristobal	Mayo	4331
+La vega	Septiembre	7028
+San Cristobal	Julio	2666
+Esperanza	Febrero	5350
+La Romana	Junio	3351
+Esperanza	Enero	5578
+La Romana	Febrero	7395
+San Cristobal	Enero	7722
+La Altagracia	Marzo	7062
+Moca	Septiembre	2158
+Mao	Agosto	6514
+San Pedro de Macoris	Abril	1491
+San Cristobal	Julio	2726
+La vega	Mayo	5962
+La Altagracia	Noviembre	5693
+San Pedro de Macoris	Marzo	6882
+San Cristobal	Enero	9180
+San Cristobal	Noviembre	8500
+La Romana	Enero	7527
+Moca	Julio	3652
+La vega	Julio	2408
+Moca	Junio	3456
+Mao	Noviembre	1708
+Puerto Plata	Enero	5187
+San Cristobal	Octubre	2703
+Mao	Diciembre	5959
+Mao	Abril	6123
+Mao	Agosto	8340
+Santiago de los Caballeros	Agosto	5509
+Moca	Noviembre	5725
+San Pedro de Macoris	Julio	2359
+Esperanza	Junio	8353
+La Altagracia	Enero	3691
+Esperanza	Enero	3582
+San Pedro de Macoris	Marzo	8211
+Puerto Plata	Marzo	9456
+La vega	Diciembre	3008
+La vega	Junio	1031
+Moca	Marzo	3839
+Santiago de los Caballeros	Abril	6760
+Esperanza	Abril	3319
+Santiago de los Caballeros	Febrero	6518
+Mao	Junio	3824
+Puerto Plata	Enero	9013
+Mao	Febrero	4243
+Mao	Enero	7784
+San Pedro de Macoris	Noviembre	1467
+Puerto Plata	Febrero	5990
+Moca	Junio	3871
+Santiago de los Caballeros	Mayo	6890
+San Pedro de Macoris	Julio	5481
+Esperanza	Septiembre	1739
+La Romana	Noviembre	8224
+San Pedro de Macoris	Septiembre	5776
+La vega	Junio	7526
+Mao	Febrero	1720
+Esperanza	Agosto	8717
+Puerto Plata	Agosto	7415
+San Pedro de Macoris	Enero	2840
+San Pedro de Macoris	Julio	7876
+Santiago de los Caballeros	Marzo	6386
+La Altagracia	Septiembre	9331
+La Romana	Septiembre	6564
+La Altagracia	Mayo	5233
+La Romana	Mayo	2300
+La Romana	Agosto	1352
+Esperanza	Noviembre	8139
+San Cristobal	Mayo	5355
+San Pedro de Macoris	Mayo	4566
+La Romana	Abril	8195
+La Altagracia	Abril	1391
+Moca	Noviembre	1240
+Esperanza	Diciembre	9049
+Mao	Diciembre	5727
+Moca	Diciembre	2883
+Puerto Plata	Octubre	6946
+Moca	Septiembre	1003
+San Pedro de Macoris	Junio	6452
+San Cristobal	Enero	4760
+San Cristobal	Marzo	6098
+Mao	Septiembre	2768
+Mao	Agosto	6824
+Mao	Agosto	3637
+La vega	Enero	4711
+Moca	Junio	8577
+Santiago de los Caballeros	Enero	7561
+Puerto Plata	Septiembre	5599
+Santiago de los Caballeros	Diciembre	3784
+Moca	Junio	2020
+Mao	Abril	5164
+Mao	Julio	7504
+Moca	Marzo	7830
+Moca	Noviembre	2171
+Santiago de los Caballeros	Marzo	1497
+La Altagracia	Octubre	7857
+Puerto Plata	Marzo	4775
+La Romana	Marzo	9293
+San Pedro de Macoris	Junio	3557
+San Pedro de Macoris	Julio	3508
+Mao	Diciembre	5189
+San Cristobal	Junio	9290
+La Romana	Noviembre	2652
+Moca	Junio	5969
+La Altagracia	Junio	4028
+La Altagracia	Abril	6997
+Santiago de los Caballeros	Marzo	5666
+La Altagracia	Diciembre	7325
+San Pedro de Macoris	Julio	2832
+San Pedro de Macoris	Noviembre	7529
+Puerto Plata	Septiembre	7140
+Puerto Plata	Mayo	6612
+La Altagracia	Diciembre	8326
+La Altagracia	Diciembre	6938
+Mao	Enero	8417
+San Cristobal	Marzo	6326
+Moca	Agosto	6628
+Esperanza	Abril	8294
+La vega	Julio	3518
+San Pedro de Macoris	Septiembre	7040
+Mao	Noviembre	4344
+Santiago de los Caballeros	Febrero	3394
+La Altagracia	Agosto	7565
+San Cristobal	Marzo	4468
+Mao	Julio	1202
+La Altagracia	Agosto	3236
+Moca	Mayo	2870
+La Romana	Junio	4889
+Puerto Plata	Febrero	3237
+La Romana	Septiembre	3423
+La Altagracia	Septiembre	2310
+La vega	Noviembre	1724
+Moca	Julio	1693
+San Cristobal	Mayo	5228
+Santiago de los Caballeros	Mayo	1672
+Esperanza	Enero	8555
+Santiago de los Caballeros	Diciembre	1382
