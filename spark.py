@@ -23,17 +23,17 @@ if __name__ == "__main__":
     df.printSchema()
     # df.show()
 
-    print('total de ventas x ciudad')
+    print('Total de ventas x ciudad')
     df.groupBy('ciudad').sum('monto').show()
 
-    print('total de ventas x mes')
+    print('Total de ventas x mes')
     df.groupBy('mes').sum('monto').sort('mes').show()
 
-    print('mes con mayor venta')
+    print('Mes con mayor venta')
     # df.orderBy(F.desc('monto')).limit(1).show()
     df.groupBy('mes').sum('monto').orderBy(col('sum(monto)').desc()).limit(1).show()
 
-    print('ciudad con mayor venta')
+    print('Ciudad con mayor venta')
     df.groupBy('ciudad').sum('monto').orderBy(col('sum(monto)').desc()).limit(1).show()
 
     print('Mostrar el Total Ventas para los Meses Enero y Marzo en la Ciudades de Santiago, La Vega y Moca.')
