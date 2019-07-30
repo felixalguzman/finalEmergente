@@ -15,7 +15,7 @@ if __name__ == "__main__":
         .getOrCreate()
 
     sc = spark.sparkContext
-    textFile = sc.textFile("hdfs://localhost:9000/dataset.txt")
+    textFile = sc.textFile("hdfs://localhost:9000/prueba/dataset.txt")
     partes = textFile.map(lambda l: l.split("\t"))
     data = partes.map(lambda p: Row(ciudad=p[0], mes=p[1], monto=int(p[2])))
     df = spark.createDataFrame(data)
