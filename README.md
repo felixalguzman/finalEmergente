@@ -1,3 +1,7 @@
+![Screenshot from 2019-07-26 22-40-58](https://user-images.githubusercontent.com/17243615/151471385-2dd37ed5-19a3-4935-bed1-8a399a4341ff.png)
+
+
+
 # ANÁLISIS VENTAS UTILIZANDO MAPREDUCE SOBRE CLUSTER HADOOP
 
 1. Desarrollar un script, en cualquier lenguaje de programación, que genere un DataSet
